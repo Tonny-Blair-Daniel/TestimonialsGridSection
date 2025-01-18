@@ -25,7 +25,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Link to solution]()
+- Solution URL: [Link to solution](https://github.com/Tonny-Blair-Daniel/TestimonialsGridSection.git)
 - Live Site URL: [Live website]()
 
 ## My process
